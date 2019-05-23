@@ -7,7 +7,7 @@
         "low_alch_price": 2,
         "buy_limit": 7000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 161
     },
     "cannon base": {
         "item_id": 6,
@@ -266,7 +266,7 @@
         "high_alch_price": 384,
         "low_alch_price": 256,
         "buy_limit": 10000,
-        "sell_price": 0,
+        "sell_price": 367,
         "buy_price": 0
     },
     "yew shortbow (u)": {
@@ -726,7 +726,7 @@
         "high_alch_price": 9,
         "low_alch_price": 6,
         "buy_limit": 13000,
-        "sell_price": 0,
+        "sell_price": 120,
         "buy_price": 0
     },
     "grimy harralander": {
@@ -786,7 +786,7 @@
         "high_alch_price": 13,
         "low_alch_price": 8,
         "buy_limit": 11000,
-        "sell_price": 0,
+        "sell_price": 1386,
         "buy_price": 0
     },
     "grimy dwarf weed": {
@@ -956,7 +956,7 @@
         "high_alch_price": 0,
         "low_alch_price": 0,
         "buy_limit": 13000,
-        "sell_price": 0,
+        "sell_price": 258,
         "buy_price": 0
     },
     "nice hedge": {
@@ -986,7 +986,7 @@
         "high_alch_price": 3,
         "low_alch_price": 2,
         "buy_limit": 13000,
-        "sell_price": 0,
+        "sell_price": 25,
         "buy_price": 0
     },
     "tarromin": {
@@ -1137,7 +1137,7 @@
         "low_alch_price": 8,
         "buy_limit": 40,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 234
     },
     "small fishing net": {
         "item_id": 303,
@@ -1167,7 +1167,7 @@
         "low_alch_price": 8,
         "buy_limit": 40,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 999
     },
     "wooden chair": {
         "item_id": 8498,
@@ -1407,7 +1407,7 @@
         "low_alch_price": 12,
         "buy_limit": 15000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 43
     },
     "dragon bitter": {
         "item_id": 1911,
@@ -1577,7 +1577,7 @@
         "low_alch_price": 16,
         "buy_limit": 6000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 71
     },
     "teak table": {
         "item_id": 8554,
@@ -1617,7 +1617,7 @@
         "low_alch_price": 16,
         "buy_limit": 6000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 140
     },
     "mahogany table": {
         "item_id": 8558,
@@ -1676,7 +1676,7 @@
         "high_alch_price": 48,
         "low_alch_price": 32,
         "buy_limit": 6000,
-        "sell_price": 0,
+        "sell_price": 209,
         "buy_price": 0
     },
     "carved oak bench": {
@@ -1727,7 +1727,7 @@
         "low_alch_price": 28,
         "buy_limit": 6000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 105
     },
     "mahogany bench": {
         "item_id": 8572,
@@ -1777,7 +1777,7 @@
         "low_alch_price": 68,
         "buy_limit": 10000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 799
     },
     "oak bed": {
         "item_id": 8578,
@@ -2157,7 +2157,7 @@
         "low_alch_price": 6,
         "buy_limit": 13000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 82
     },
     "silver ore": {
         "item_id": 442,
@@ -2197,7 +2197,7 @@
         "low_alch_price": 160,
         "buy_limit": 4500,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 1337
     },
     "runite ore": {
         "item_id": 451,
@@ -2206,7 +2206,7 @@
         "high_alch_price": 1920,
         "low_alch_price": 1280,
         "buy_limit": 4500,
-        "sell_price": 0,
+        "sell_price": 11439,
         "buy_price": 0
     },
     "coal": {
@@ -2216,7 +2216,7 @@
         "high_alch_price": 27,
         "low_alch_price": 18,
         "buy_limit": 13000,
-        "sell_price": 0,
+        "sell_price": 136,
         "buy_price": 0
     },
     "strange fruit": {
@@ -2266,7 +2266,7 @@
         "high_alch_price": 0,
         "low_alch_price": 0,
         "buy_limit": 3000,
-        "sell_price": 0,
+        "sell_price": 207,
         "buy_price": 0
     },
     "babydragon bones": {
@@ -2286,8 +2286,8 @@
         "high_alch_price": 96,
         "low_alch_price": 64,
         "buy_limit": 7500,
-        "sell_price": 0,
-        "buy_price": 0
+        "sell_price": 2465,
+        "buy_price": 2474
     },
     "druid's robe": {
         "item_id": 538,
@@ -2466,7 +2466,7 @@
         "high_alch_price": 900,
         "low_alch_price": 600,
         "buy_limit": 13000,
-        "sell_price": 0,
+        "sell_price": 1950,
         "buy_price": 0
     },
     "ashes": {
@@ -2486,7 +2486,7 @@
         "high_alch_price": 60000,
         "low_alch_price": 40000,
         "buy_limit": 11000,
-        "sell_price": 0,
+        "sell_price": 131621,
         "buy_price": 0
     },
     "marble block": {
@@ -2896,8 +2896,8 @@
         "high_alch_price": 39,
         "low_alch_price": 26,
         "buy_limit": 11000,
-        "sell_price": 0,
-        "buy_price": 0
+        "sell_price": 122,
+        "buy_price": 122
     },
     "rune dart": {
         "item_id": 811,
@@ -3207,7 +3207,7 @@
         "low_alch_price": 1024,
         "buy_limit": 18000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 1322
     },
     "locust meat": {
         "item_id": 9052,
@@ -3226,7 +3226,7 @@
         "high_alch_price": 960,
         "low_alch_price": 640,
         "buy_limit": 18000,
-        "sell_price": 0,
+        "sell_price": 795,
         "buy_price": 0
     },
     "iron knife": {
@@ -3417,7 +3417,7 @@
         "low_alch_price": 32,
         "buy_limit": 11000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 71
     },
     "adamant arrow(p)": {
         "item_id": 891,
@@ -3436,7 +3436,7 @@
         "high_alch_price": 240,
         "low_alch_price": 160,
         "buy_limit": 11000,
-        "sell_price": 0,
+        "sell_price": 91,
         "buy_price": 0
     },
     "rune arrow(p)": {
@@ -3477,7 +3477,7 @@
         "low_alch_price": 12,
         "buy_limit": 18000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 22
     },
     "spade": {
         "item_id": 952,
@@ -3517,7 +3517,7 @@
         "low_alch_price": 0,
         "buy_limit": 13000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 235
     },
     "christmas cracker": {
         "item_id": 962,
@@ -3706,7 +3706,7 @@
         "high_alch_price": 400,
         "low_alch_price": 266,
         "buy_limit": 11000,
-        "sell_price": 0,
+        "sell_price": 234,
         "buy_price": 0
     },
     "onyx bolt tips": {
@@ -3716,7 +3716,7 @@
         "high_alch_price": 600,
         "low_alch_price": 400,
         "buy_limit": 11000,
-        "sell_price": 0,
+        "sell_price": 8320,
         "buy_price": 0
     },
     "red cape": {
@@ -3936,7 +3936,7 @@
         "high_alch_price": 38400,
         "low_alch_price": 25600,
         "buy_limit": 70,
-        "sell_price": 0,
+        "sell_price": 37900,
         "buy_price": 0
     },
     "iron plateskirt": {
@@ -4476,7 +4476,7 @@
         "high_alch_price": 1326,
         "low_alch_price": 884,
         "buy_limit": 125,
-        "sell_price": 0,
+        "sell_price": 1125,
         "buy_price": 0
     },
     "adamant kiteshield": {
@@ -4517,7 +4517,7 @@
         "low_alch_price": 4,
         "buy_limit": 125,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 47
     },
     "steel dagger": {
         "item_id": 1207,
@@ -4546,7 +4546,7 @@
         "high_alch_price": 480,
         "low_alch_price": 320,
         "buy_limit": 125,
-        "sell_price": 0,
+        "sell_price": 120,
         "buy_price": 0
     },
     "rune dagger": {
@@ -5226,7 +5226,7 @@
         "high_alch_price": 4200,
         "low_alch_price": 2800,
         "buy_limit": 11000,
-        "sell_price": 0,
+        "sell_price": 8295,
         "buy_price": 0
     },
     "fire battlestaff": {
@@ -5637,7 +5637,7 @@
         "low_alch_price": 1,
         "buy_limit": 13000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 21
     },
     "mind shield": {
         "item_id": 9731,
@@ -5806,7 +5806,7 @@
         "high_alch_price": 1200,
         "low_alch_price": 800,
         "buy_limit": 11000,
-        "sell_price": 0,
+        "sell_price": 2000,
         "buy_price": 0
     },
     "ruby": {
@@ -5956,7 +5956,7 @@
         "high_alch_price": 600,
         "low_alch_price": 400,
         "buy_limit": 10000,
-        "sell_price": 0,
+        "sell_price": 19648,
         "buy_price": 0
     },
     "gold ring": {
@@ -5966,7 +5966,7 @@
         "high_alch_price": 210,
         "low_alch_price": 140,
         "buy_limit": 18000,
-        "sell_price": 0,
+        "sell_price": 119,
         "buy_price": 0
     },
     "sapphire ring": {
@@ -5996,7 +5996,7 @@
         "high_alch_price": 1215,
         "low_alch_price": 810,
         "buy_limit": 10000,
-        "sell_price": 0,
+        "sell_price": 1060,
         "buy_price": 0
     },
     "diamond ring": {
@@ -6057,7 +6057,7 @@
         "low_alch_price": 180,
         "buy_limit": 18000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 124
     },
     "gilded cape rack": {
         "item_id": 9846,
@@ -6456,8 +6456,8 @@
         "high_alch_price": 10575,
         "low_alch_price": 7050,
         "buy_limit": 10000,
-        "sell_price": 0,
-        "buy_price": 0
+        "sell_price": 12351,
+        "buy_price": 12356
     },
     "amulet of glory(4)": {
         "item_id": 1712,
@@ -6467,7 +6467,7 @@
         "low_alch_price": 7050,
         "buy_limit": 10000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 12400
     },
     "unstrung symbol": {
         "item_id": 1714,
@@ -7107,7 +7107,7 @@
         "low_alch_price": 2,
         "buy_limit": 18000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 21
     },
     "graahk legs": {
         "item_id": 10047,
@@ -7577,7 +7577,7 @@
         "low_alch_price": 0,
         "buy_limit": 2000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 69
     },
     "kebbit teeth": {
         "item_id": 10109,
@@ -8137,7 +8137,7 @@
         "low_alch_price": 1,
         "buy_limit": 13000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 51
     },
     "grapes": {
         "item_id": 1987,
@@ -8146,7 +8146,7 @@
         "high_alch_price": 0,
         "low_alch_price": 0,
         "buy_limit": 13000,
-        "sell_price": 0,
+        "sell_price": 111,
         "buy_price": 0
     },
     "half full wine jug": {
@@ -8167,7 +8167,7 @@
         "low_alch_price": 0,
         "buy_limit": 6000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 3
     },
     "stew": {
         "item_id": 2003,
@@ -8526,7 +8526,7 @@
         "high_alch_price": 9,
         "low_alch_price": 6,
         "buy_limit": 150,
-        "sell_price": 0,
+        "sell_price": 82,
         "buy_price": 0
     },
     "white firelighter": {
@@ -9597,7 +9597,7 @@
         "low_alch_price": 0,
         "buy_limit": 40,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 54
     },
     "bronze bar": {
         "item_id": 2349,
@@ -9606,7 +9606,7 @@
         "high_alch_price": 4,
         "low_alch_price": 3,
         "buy_limit": 10000,
-        "sell_price": 0,
+        "sell_price": 116,
         "buy_price": 0
     },
     "iron bar": {
@@ -9656,7 +9656,7 @@
         "high_alch_price": 180,
         "low_alch_price": 120,
         "buy_limit": 10000,
-        "sell_price": 0,
+        "sell_price": 663,
         "buy_price": 0
     },
     "adamantite bar": {
@@ -9666,7 +9666,7 @@
         "high_alch_price": 384,
         "low_alch_price": 256,
         "buy_limit": 10000,
-        "sell_price": 0,
+        "sell_price": 2074,
         "buy_price": 0
     },
     "runite bar": {
@@ -9766,7 +9766,7 @@
         "high_alch_price": 114,
         "low_alch_price": 76,
         "buy_limit": 2000,
-        "sell_price": 0,
+        "sell_price": 8693,
         "buy_price": 0
     },
     "fishing potion(4)": {
@@ -9787,7 +9787,7 @@
         "low_alch_price": 144,
         "buy_limit": 2000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 1180
     },
     "antipoison(4)": {
         "item_id": 2446,
@@ -9797,7 +9797,7 @@
         "low_alch_price": 144,
         "buy_limit": 2000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 238
     },
     "zamorak brew(4)": {
         "item_id": 2450,
@@ -9957,7 +9957,7 @@
         "low_alch_price": 2488,
         "buy_limit": 70,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 6950
     },
     "blue dragon leather": {
         "item_id": 2505,
@@ -10036,8 +10036,8 @@
         "high_alch_price": 540,
         "low_alch_price": 360,
         "buy_limit": 10000,
-        "sell_price": 0,
-        "buy_price": 0
+        "sell_price": 933,
+        "buy_price": 949
     },
     "ring of dueling(8)": {
         "item_id": 2552,
@@ -10076,7 +10076,7 @@
         "high_alch_price": 10575,
         "low_alch_price": 7050,
         "buy_limit": 10000,
-        "sell_price": 0,
+        "sell_price": 12300,
         "buy_price": 0
     },
     "ranger boots": {
@@ -10236,7 +10236,7 @@
         "high_alch_price": 38400,
         "low_alch_price": 25600,
         "buy_limit": 8,
-        "sell_price": 0,
+        "sell_price": 72000,
         "buy_price": 0
     },
     "arctic pine logs": {
@@ -10256,7 +10256,7 @@
         "high_alch_price": 21120,
         "low_alch_price": 14080,
         "buy_limit": 8,
-        "sell_price": 0,
+        "sell_price": 160210,
         "buy_price": 0
     },
     "split log": {
@@ -10306,7 +10306,7 @@
         "high_alch_price": 38400,
         "low_alch_price": 25600,
         "buy_limit": 8,
-        "sell_price": 0,
+        "sell_price": 38005,
         "buy_price": 0
     },
     "yak-hide": {
@@ -10326,7 +10326,7 @@
         "high_alch_price": 21120,
         "low_alch_price": 14080,
         "buy_limit": 8,
-        "sell_price": 0,
+        "sell_price": 28225,
         "buy_price": 0
     },
     "cured yak-hide": {
@@ -10346,7 +10346,7 @@
         "high_alch_price": 32640,
         "low_alch_price": 21760,
         "buy_limit": 8,
-        "sell_price": 0,
+        "sell_price": 36450,
         "buy_price": 0
     },
     "yak-hide armour": {
@@ -11336,7 +11336,7 @@
         "high_alch_price": 180,
         "low_alch_price": 120,
         "buy_limit": 2000,
-        "sell_price": 0,
+        "sell_price": 2500,
         "buy_price": 0
     },
     "super energy(3)": {
@@ -11386,8 +11386,8 @@
         "high_alch_price": 180,
         "low_alch_price": 120,
         "buy_limit": 2000,
-        "sell_price": 0,
-        "buy_price": 0
+        "sell_price": 9383,
+        "buy_price": 9594
     },
     "super restore(3)": {
         "item_id": 3026,
@@ -11567,7 +11567,7 @@
         "low_alch_price": 48000,
         "buy_limit": 8,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 633500
     },
     "magic potion(2)": {
         "item_id": 3044,
@@ -11586,7 +11586,7 @@
         "high_alch_price": 300,
         "low_alch_price": 200,
         "buy_limit": 10000,
-        "sell_price": 0,
+        "sell_price": 869,
         "buy_price": 0
     },
     "magic potion(1)": {
@@ -11676,7 +11676,7 @@
         "high_alch_price": 30,
         "low_alch_price": 20,
         "buy_limit": 18000,
-        "sell_price": 0,
+        "sell_price": 3045,
         "buy_price": 0
     },
     "nature impling jar": {
@@ -14327,7 +14327,7 @@
         "low_alch_price": 12400,
         "buy_limit": 10000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 149995
     },
     "odium shard 2": {
         "item_id": 11929,
@@ -14347,7 +14347,7 @@
         "low_alch_price": 12400,
         "buy_limit": 10000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 1610050
     },
     "malediction shard 1": {
         "item_id": 11931,
@@ -14546,7 +14546,7 @@
         "high_alch_price": 198,
         "low_alch_price": 132,
         "buy_limit": 2000,
-        "sell_price": 0,
+        "sell_price": 615,
         "buy_price": 0
     },
     "gilded med helm": {
@@ -14817,7 +14817,7 @@
         "low_alch_price": 7050,
         "buy_limit": 10000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 12800
     },
     "fremennik pink cloak": {
         "item_id": 3787,
@@ -15836,7 +15836,7 @@
         "high_alch_price": 162000,
         "low_alch_price": 108000,
         "buy_limit": 70,
-        "sell_price": 0,
+        "sell_price": 161377,
         "buy_price": 0
     },
     "mithril platelegs (g)": {
@@ -15936,7 +15936,7 @@
         "high_alch_price": 6000,
         "low_alch_price": 4000,
         "buy_limit": 125,
-        "sell_price": 0,
+        "sell_price": 5747,
         "buy_price": 0
     },
     "mithril platelegs (t)": {
@@ -16356,7 +16356,7 @@
         "high_alch_price": 72000,
         "low_alch_price": 48000,
         "buy_limit": 70,
-        "sell_price": 0,
+        "sell_price": 2600500,
         "buy_price": 0
     },
     "gold elegant blouse": {
@@ -16377,7 +16377,7 @@
         "low_alch_price": 20000,
         "buy_limit": 70,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 48480
     },
     "gold elegant skirt": {
         "item_id": 12345,
@@ -17526,7 +17526,7 @@
         "high_alch_price": 57600,
         "low_alch_price": 38400,
         "buy_limit": 70,
-        "sell_price": 0,
+        "sell_price": 109011,
         "buy_price": 0
     },
     "dragon legs/skirt ornament kit": {
@@ -18137,7 +18137,7 @@
         "low_alch_price": 160,
         "buy_limit": 2000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 4800
     },
     "stamina potion(3)": {
         "item_id": 12627,
@@ -18516,7 +18516,7 @@
         "high_alch_price": 162000,
         "low_alch_price": 108000,
         "buy_limit": 70,
-        "sell_price": 0,
+        "sell_price": 161364,
         "buy_price": 0
     },
     "dareeyak teleport": {
@@ -18597,7 +18597,7 @@
         "low_alch_price": 0,
         "buy_limit": 15,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 200
     },
     "magic shortbow scroll": {
         "item_id": 12786,
@@ -18936,7 +18936,7 @@
         "high_alch_price": 3000,
         "low_alch_price": 2000,
         "buy_limit": 125,
-        "sell_price": 0,
+        "sell_price": 9750,
         "buy_price": 0
     },
     "red dragonhide set": {
@@ -18976,7 +18976,7 @@
         "high_alch_price": 240000,
         "low_alch_price": 160000,
         "buy_limit": 8,
-        "sell_price": 0,
+        "sell_price": 1310000,
         "buy_price": 0
     },
     "linen": {
@@ -18996,7 +18996,7 @@
         "high_alch_price": 240000,
         "low_alch_price": 160000,
         "buy_limit": 8,
-        "sell_price": 0,
+        "sell_price": 3404003,
         "buy_price": 0
     },
     "bucket of sap": {
@@ -19016,7 +19016,7 @@
         "high_alch_price": 240000,
         "low_alch_price": 160000,
         "buy_limit": 8,
-        "sell_price": 0,
+        "sell_price": 919998,
         "buy_price": 0
     },
     "pile of salt": {
@@ -19047,7 +19047,7 @@
         "low_alch_price": 80000,
         "buy_limit": 8,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 2506330
     },
     "arcane prayer scroll": {
         "item_id": 21079,
@@ -19106,7 +19106,7 @@
         "high_alch_price": 7800,
         "low_alch_price": 5200,
         "buy_limit": 15,
-        "sell_price": 0,
+        "sell_price": 64069,
         "buy_price": 0
     },
     "uncharged toxic trident": {
@@ -19156,7 +19156,7 @@
         "high_alch_price": 30000,
         "low_alch_price": 20000,
         "buy_limit": 15,
-        "sell_price": 0,
+        "sell_price": 1911000,
         "buy_price": 0
     },
     "topaz necklace": {
@@ -19186,7 +19186,7 @@
         "high_alch_price": 28200,
         "low_alch_price": 18800,
         "buy_limit": 15,
-        "sell_price": 0,
+        "sell_price": 1822300,
         "buy_price": 0
     },
     "anti-venom(3)": {
@@ -19277,7 +19277,7 @@
         "low_alch_price": 177,
         "buy_limit": 2000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 10641
     },
     "topaz amulet (u)": {
         "item_id": 21105,
@@ -19427,7 +19427,7 @@
         "low_alch_price": 48000,
         "buy_limit": 8,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 3635171
     },
     "opal bracelet": {
         "item_id": 21117,
@@ -19466,7 +19466,7 @@
         "high_alch_price": 30000,
         "low_alch_price": 20000,
         "buy_limit": 15,
-        "sell_price": 0,
+        "sell_price": 1840000,
         "buy_price": 0
     },
     "jade bracelet": {
@@ -19496,7 +19496,7 @@
         "high_alch_price": 28200,
         "low_alch_price": 18800,
         "buy_limit": 15,
-        "sell_price": 0,
+        "sell_price": 367001,
         "buy_price": 0
     },
     "topaz bracelet": {
@@ -19577,7 +19577,7 @@
         "low_alch_price": 41200,
         "buy_limit": 15,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 178767
     },
     "verac's flail": {
         "item_id": 4755,
@@ -19607,7 +19607,7 @@
         "low_alch_price": 110000,
         "buy_limit": 15,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 786987
     },
     "bronze set (lg)": {
         "item_id": 12960,
@@ -19826,7 +19826,7 @@
         "high_alch_price": 780,
         "low_alch_price": 520,
         "buy_limit": 10000,
-        "sell_price": 0,
+        "sell_price": 750,
         "buy_price": 0
     },
     "adamant brutal": {
@@ -20177,7 +20177,7 @@
         "low_alch_price": 32000,
         "buy_limit": 8,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 385000
     },
     "rune gold-trimmed set (sk)": {
         "item_id": 13034,
@@ -21276,7 +21276,7 @@
         "high_alch_price": 42,
         "low_alch_price": 28,
         "buy_limit": 125,
-        "sell_price": 0,
+        "sell_price": 8389,
         "buy_price": 0
     },
     "lizardman fang": {
@@ -21506,7 +21506,7 @@
         "high_alch_price": 191,
         "low_alch_price": 127,
         "buy_limit": 3000,
-        "sell_price": 0,
+        "sell_price": 1212,
         "buy_price": 0
     },
     "banana tree seed": {
@@ -21726,7 +21726,7 @@
         "high_alch_price": 36,
         "low_alch_price": 24,
         "buy_limit": 200,
-        "sell_price": 0,
+        "sell_price": 50410,
         "buy_price": 0
     },
     "uncooked mushroom pie": {
@@ -21926,7 +21926,7 @@
         "high_alch_price": 1,
         "low_alch_price": 1,
         "buy_limit": 600,
-        "sell_price": 0,
+        "sell_price": 1,
         "buy_price": 0
     },
     "ensouled dragon head": {
@@ -22246,7 +22246,7 @@
         "high_alch_price": 300000,
         "low_alch_price": 200000,
         "buy_limit": 18000,
-        "sell_price": 0,
+        "sell_price": 490879,
         "buy_price": 0
     },
     "ancient totem": {
@@ -22266,7 +22266,7 @@
         "high_alch_price": 1200000,
         "low_alch_price": 800000,
         "buy_limit": 18000,
-        "sell_price": 0,
+        "sell_price": 1986501,
         "buy_price": 0
     },
     "bracelet of ethereum (uncharged)": {
@@ -22276,8 +22276,8 @@
         "high_alch_price": 43200,
         "low_alch_price": 28800,
         "buy_limit": 10000,
-        "sell_price": 0,
-        "buy_price": 0
+        "sell_price": 43930,
+        "buy_price": 43999
     },
     "revenant ether": {
         "item_id": 21820,
@@ -22707,7 +22707,7 @@
         "low_alch_price": 332,
         "buy_limit": 11000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 1569
     },
     "diamond dragon bolts (e)": {
         "item_id": 21946,
@@ -22717,7 +22717,7 @@
         "low_alch_price": 352,
         "buy_limit": 11000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 1630
     },
     "dragonstone dragon bolts (e)": {
         "item_id": 21948,
@@ -22886,7 +22886,7 @@
         "high_alch_price": 480,
         "low_alch_price": 320,
         "buy_limit": 2000,
-        "sell_price": 0,
+        "sell_price": 10592,
         "buy_price": 0
     },
     "super antifire potion(3)": {
@@ -22906,7 +22906,7 @@
         "high_alch_price": 432,
         "low_alch_price": 288,
         "buy_limit": 2000,
-        "sell_price": 0,
+        "sell_price": 2502,
         "buy_price": 0
     },
     "super antifire potion(1)": {
@@ -22916,7 +22916,7 @@
         "high_alch_price": 408,
         "low_alch_price": 272,
         "buy_limit": 2000,
-        "sell_price": 0,
+        "sell_price": 1200,
         "buy_price": 0
     },
     "super antifire mix(2)": {
@@ -23317,7 +23317,7 @@
         "low_alch_price": 320,
         "buy_limit": 2000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 11950
     },
     "extended super antifire(3)": {
         "item_id": 22212,
@@ -23566,7 +23566,7 @@
         "high_alch_price": 2400000,
         "low_alch_price": 1600000,
         "buy_limit": 18000,
-        "sell_price": 0,
+        "sell_price": 3962012,
         "buy_price": 0
     },
     "ancient effigy": {
@@ -23886,7 +23886,7 @@
         "high_alch_price": 0,
         "low_alch_price": 0,
         "buy_limit": 11000,
-        "sell_price": 0,
+        "sell_price": 1194,
         "buy_price": 0
     },
     "poison ivy berries": {
@@ -24267,7 +24267,7 @@
         "low_alch_price": 48000,
         "buy_limit": 8,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 21000000
     },
     "ribcage piece": {
         "item_id": 6165,
@@ -24746,8 +24746,8 @@
         "high_alch_price": 121200,
         "low_alch_price": 80800,
         "buy_limit": 8,
-        "sell_price": 0,
-        "buy_price": 0
+        "sell_price": 2871751,
+        "buy_price": 2899999
     },
     "white 2h sword": {
         "item_id": 6609,
@@ -24857,7 +24857,7 @@
         "low_alch_price": 80,
         "buy_limit": 2000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 3734
     },
     "saradomin brew(3)": {
         "item_id": 6687,
@@ -25036,7 +25036,7 @@
         "high_alch_price": 96,
         "low_alch_price": 64,
         "buy_limit": 7500,
-        "sell_price": 0,
+        "sell_price": 2463,
         "buy_price": 0
     },
     "fur": {
@@ -25847,7 +25847,7 @@
         "low_alch_price": 6,
         "buy_limit": 4,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 196317
     },
     "blue wizard robe (t)": {
         "item_id": 7392,
@@ -25856,7 +25856,7 @@
         "high_alch_price": 9,
         "low_alch_price": 6,
         "buy_limit": 4,
-        "sell_price": 0,
+        "sell_price": 50900,
         "buy_price": 0
     },
     "blue wizard hat (g)": {
@@ -25867,7 +25867,7 @@
         "low_alch_price": 0,
         "buy_limit": 4,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 153000
     },
     "blue wizard hat (t)": {
         "item_id": 7396,
@@ -25876,7 +25876,7 @@
         "high_alch_price": 1,
         "low_alch_price": 0,
         "buy_limit": 4,
-        "sell_price": 0,
+        "sell_price": 55502,
         "buy_price": 0
     },
     "enchanted robe": {
@@ -26066,8 +26066,8 @@
         "high_alch_price": 1800,
         "low_alch_price": 1200,
         "buy_limit": 8,
-        "sell_price": 0,
-        "buy_price": 0
+        "sell_price": 1531,
+        "buy_price": 1540
     },
     "bottle of wine": {
         "item_id": 7919,
@@ -26096,7 +26096,7 @@
         "high_alch_price": 138,
         "low_alch_price": 92,
         "buy_limit": 13000,
-        "sell_price": 0,
+        "sell_price": 310,
         "buy_price": 0
     },
     "monkfish": {
@@ -26107,7 +26107,7 @@
         "low_alch_price": 92,
         "buy_limit": 13000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 398
     },
     "varrock teleport": {
         "item_id": 8007,
@@ -26167,7 +26167,7 @@
         "low_alch_price": 0,
         "buy_limit": 10000,
         "sell_price": 0,
-        "buy_price": 0
+        "buy_price": 476
     },
     "bones to bananas": {
         "item_id": 8014,
